@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0113","url":"c:\\Users\\Admin\\Documents\\fighting\\code\\python\\ICPC0113.py","tests":[{"id":1765270716469,"input":"3\n13\n753\n757\n","output":"13 31\n13 31 17 71 37 73 79 97"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\fighting\\code\\python\\ICPC0113.py","group":"local","local":true}
